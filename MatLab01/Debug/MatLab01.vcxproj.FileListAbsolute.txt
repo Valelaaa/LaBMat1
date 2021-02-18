@@ -1,0 +1,2 @@
+C:\Users\kosne\source\repos\MatLab01\Debug\MatLab01.exe
+C:\Users\kosne\source\repos\MatLab01\Debug\MatLab01.pdb
